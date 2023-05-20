@@ -1,2 +1,2 @@
 # ReactCounter
-Only React frontend
+Only contains the important aspects for this React app.
